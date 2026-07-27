@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Geonwoo 
 
-<!--
-**geonusp/geonusp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in backend engineering, distributed systems, and reliability.
 
-Here are some ideas to get you started:
+I mainly work with Java and Spring Boot, and I enjoy investigating performance bottlenecks, production issues, and system design trade-offs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently exploring
+
+- Java and Spring Boot
+- Distributed systems and event-driven architecture
+- Observability and performance engineering
+- Kubernetes and cloud-native technologies
+- Open-source contribution
+
+## Tech
+
+- Java, Python, JavaScript
+- Spring Boot, JPA, PostgreSQL
+- Docker, AWS, GitHub Actions
+- Prometheus, Grafana, k6
+
+## Current focus
+
+- Improving my data structures and algorithms skills
+- Contributing to cloud-native open-source projects
+- Building reliable backend systems
