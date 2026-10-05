@@ -18,5 +18,4 @@ I mainly work with Java and Spring Boot, and I enjoy investigating performance b
 
 ## Current focus
 
-- Improving my data structures and algorithms skills
 - Strengthen the foundation
