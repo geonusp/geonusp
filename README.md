@@ -6,11 +6,11 @@ I mainly work with Java and Spring Boot, and I enjoy investigating performance b
 
 ## Currently exploring
 
-- Java and Spring Boot
+- Java and Go
 - Distributed systems and event-driven architecture
 - Observability and performance engineering
 - Kubernetes and cloud-native technologies
-- Open-source contribution
+- Otel
 
 ## Tech
 
