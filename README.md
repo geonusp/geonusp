@@ -14,10 +14,7 @@ I mainly work with Java and Spring Boot, and I enjoy investigating performance b
 
 ## Tech
 
-- Java, Python, JavaScript
-- Spring Boot, JPA, PostgreSQL
-- Docker, AWS, GitHub Actions
-- Prometheus, Grafana, k6
+- Java, Go
 
 ## Current focus
 
